@@ -12,7 +12,7 @@ with open('aed.csv', 'r', encoding='shift_jis') as f:
     {{
       latitude: {},
       longitude: {},
-      name: '{}',
+       name: '{}',
       place: '{}',
       address: '{}',
       tel: '{}'
